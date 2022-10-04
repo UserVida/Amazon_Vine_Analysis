@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-The purpose of this project was to analyze Amazon reviews written by members of the paid Amazon Vine program to determine if there was a bias towards favourable reviews from Vine memberships in the dataset. Amazon Vine Program is a service that allows manufacturers and publishers to receive reviews for their products. A single dataset from Amazon reviews was chosen and extracted so analysis could be completed using PySparks. 
+The purpose of this project was to analyze Amazon reviews written by members of the paid Amazon Vine program to determine if there was a bias towards favourable reviews from Vine memberships in the dataset. Amazon Vine Program is a service that allows manufacturers and publishers to receive reviews for their products. A single dataset from Amazon reviews was chosen and extracted so analysis could be completed using PySpark. 
 
 ## Results 
 
